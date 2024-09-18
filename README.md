@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2018.<br>📚 Cursando ciência da computação.<br>🎯 Metas: Me tornar desenvolvedor Java.</p>
+<p align="left">✨ Criando bugs desde 2018.<br>📚 Cursando ciência da computação.<br>🎯 Metas: Ingressar no mercado de trabalho como desenvolvedor Java.</p>
 
 ###
 
