@@ -1,8 +1,8 @@
-<h1 align="left">Olá como vai</h1>
+<h1 align="left">Seja bem vindo ao meu perfil!</h1>
 
 ###
 
-<p align="left">Meu nome é Jeferson Pinheiro de Jesus, sou desenvolvedor java/python , apaixonado por tecnologia . Buscando uma oportunidade como desenvolvedor backend junior. Moro no Rio de Janeiro</p>
+<p align="left">Meu nome é Jeferson Pinheiro de Jesus, sou desenvolvedor java/python , apaixonado por tecnologia . Tenho estudado muito e buscando a cada dia mais conhecimento a fim de conseguir uma oportunidade como desenvolvedor backend e mostrar meu potencial. Moro no Rio de Janeiro</p>
 
 ###
 
